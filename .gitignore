@@ -1,0 +1,60 @@
+# =========================
+# KiCad generated files
+# =========================
+
+# Backup files
+*.bak
+*~
+
+# Autosave
+*-save.kicad_sch
+*-save.kicad_pcb
+
+# Lock files
+*.lck
+
+# Project backups
+*.kicad_pro-bak
+
+# PCB editor cache
+fp-info-cache/
+
+# Simulation files
+*.net
+*.cir
+*.raw
+*.spice
+
+# Gerbers (uncomment only if you don't want to upload them)
+# *.gbr
+# *.drl
+# *.gbrjob
+
+# =========================
+# System junk
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE / Editor
+# =========================
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Logs
+# =========================
+
+*.log
+
+# =========================
+# Python cache
+# =========================
+
+__pycache__/
+*.pyc
