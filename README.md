@@ -23,7 +23,7 @@ The design integrates the essential protection and filtering stages required for
 
 🧩 **3D PCB Render**
 
-![3D PCB](docs/3d_render.png)
+![3D PCB](docs/3D_render.png)
 
 🔌 **PCB Layout**
 
