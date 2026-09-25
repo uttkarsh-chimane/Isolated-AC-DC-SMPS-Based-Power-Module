@@ -1,6 +1,25 @@
-# ⚡Isolated AC-DC SMPS-Based Power Supply using HLK-PM01
+<h1 align="center">⚡ Isolated AC-DC SMPS-Based Power Supply using HLK-PM01</h1>
 
-A compact, isolated AC-to-DC Switch Mode Power Supply (SMPS) built around the HLK-PM01 module. The design incorporates comprehensive mains input protection, EMI suppression, primary-secondary galvanic isolation, and a regulated 5V DC output, making it suitable for embedded systems, IoT devices, and industrial electronics.
+<p align="center">
+  <a href="#-overview">Overview</a> •
+  <a href="#-features">Features</a> •
+  <a href="#%EF%B8%8F-hardware-architecture">Hardware Architecture</a> •
+  <a href="#-schematic-highlights">Schematic Highlights</a> •
+  <a href="#-pcb-design-insights">PCB Insights</a> •
+  <a href="#-specifications">Specifications</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/INPUT-230V%20AC-E05D44?style=flat" alt="Input Voltage" />
+  <img src="https://img.shields.io/badge/OUTPUT-5V%20DC%20%2F%20600mA-4C1?style=flat" alt="Output Voltage" />
+  <img src="https://img.shields.io/badge/MODULE-HLK--PM01-007EC6?style=flat" alt="AC-DC Module" />
+  <img src="https://img.shields.io/badge/ISOLATION-GALVANIC%20%287.5mm%29-FE7D37?style=flat" alt="Galvanic Isolation" />
+  <img src="https://img.shields.io/badge/EDA-KiCad%2010-3182CE?style=flat&logo=kicad&logoColor=white" alt="KiCad 10" />
+</p>
+
+<p align="center">
+  A compact, isolated AC-to-DC Switch Mode Power Supply (SMPS) built around the HLK-PM01 module. The design incorporates comprehensive mains input protection, EMI suppression, primary-secondary galvanic isolation, and a regulated 5V DC output, making it suitable for embedded systems, IoT devices, and industrial electronics.
+</p>
 
 ---
 
@@ -205,5 +224,4 @@ LED Indicator
 ## 👨‍💻 Author
 
 **Uttkarsh Chimane**
-- Electronics & Computer Engineering Student
-- Designed using **KiCad 10**
+---
